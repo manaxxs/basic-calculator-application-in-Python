@@ -1,1 +1,7 @@
-# basic-calculator-application-in-Python
+# Калькулятор
+
+Запускается через `python calculator.py`.
+
+Поддерживает: `+`, `-`, `*`, `/`, `^`, скобки.
+
+Встроена тёмная тема.
